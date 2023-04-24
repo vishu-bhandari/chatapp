@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background-image: linear-gradient(rgb(255, 255, 255), rgb(109, 39, 239));
+    background-image: url(https://images.unsplash.com/photo-1598918268420-ab26838a7365?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2836&q=80);
 }
 
 .logo{
